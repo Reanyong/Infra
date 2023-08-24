@@ -1,2 +1,2 @@
-# Infrㅁ
+# Infra
 for Infrastructure Study
